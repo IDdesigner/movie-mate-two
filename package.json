@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "engines": {
-    "node": "8.1.4"
+    "node": "8.4.0"
   },
   "dependencies": {
     "request": "2.73.0",
